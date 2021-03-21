@@ -35,7 +35,7 @@ namespace Up_gradation_of_Account_class
             Console.WriteLine("Receiver ACC Name {0}", Receiver.AccName);
             Console.WriteLine("Transaction amount is {0}", amount);
             Console.WriteLine("Type of Transaction {0}", additional_info);
-
+            Console.WriteLine("****************************");
 
         }
 

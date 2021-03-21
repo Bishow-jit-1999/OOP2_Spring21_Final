@@ -30,7 +30,7 @@ namespace Up_gradation_of_Account_class
             }
         }
 
-        public void showAllTranscation()
+        public void ShowAllTranscation()
         {
             for(int i=0;i< totalNumberOfTransaction;i++)
             {
@@ -41,9 +41,13 @@ namespace Up_gradation_of_Account_class
 
         public void Deposit(double amount)
         {
+           
             Balance += amount;
+            
             transactions[totalNumberOfTransaction++] = new Transaction(this, this, amount , "Self deposit");
-            Console.WriteLine("Current Balance after Deposit is {0}", Balance);
+           
+            Console.WriteLine("Deposite successful current Balance of {0} after Deposit is {1}",AccName, Balance);
+            
         }
         public void ShowInfo()
         {
@@ -54,30 +58,39 @@ namespace Up_gradation_of_Account_class
         }
         virtual public void Withdraw(double amount)
         {
+            
             if (amount < Balance)
             {
                 Balance -= amount;
-                transactions[totalNumberOfTransaction++] = new Transaction(this, this, amount, "Self withdraw");
 
-                Console.WriteLine(transactions[i].ShowInfo());
+                transactions[totalNumberOfTransaction++] = new Transaction(this, this, amount, "Self withdraw");
+                Console.WriteLine("Withdraw successfull current Balance of {0} after Withdraw is {1}",AccName, Balance);
+               
             }
             else
             {
                 Console.WriteLine("Insufficient Balance");
             }
+            
         }
         virtual public void Transfer(Account acc, double amount)
         {
-           if (amount < Balance)
+           
+            if (amount < Balance)
             {
                 Balance -= amount;
+                
+                
                 transactions[totalNumberOfTransaction++] = new Transaction(this, acc, amount, "Transfer to another account");
-                Console.WriteLine("Current Balance after transfer is {0}", Balance);
+               
+                Console.WriteLine("Transfer sucessfull current Balance of {0} after transfer is {1}",AccName, Balance);
+               
             }
             else
             {
                 Console.WriteLine("Insufficient Balance");
             }
+            
         }
 
     }
