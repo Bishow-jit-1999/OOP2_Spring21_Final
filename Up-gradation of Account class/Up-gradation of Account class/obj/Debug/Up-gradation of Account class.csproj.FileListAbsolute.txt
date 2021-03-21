@@ -1,0 +1,7 @@
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\obj\Debug\Up-gradation of Account class.csprojAssemblyReference.cache
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\obj\Debug\Up-gradation of Account class.csproj.CoreCompileInputs.cache
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\bin\Debug\Up-gradation of Account class.exe.config
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\bin\Debug\Up-gradation of Account class.exe
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\bin\Debug\Up-gradation of Account class.pdb
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\obj\Debug\Up-gradation of Account class.exe
+F:\Final term C# Task\Up-gradation of Account class\Up-gradation of Account class\obj\Debug\Up-gradation of Account class.pdb
