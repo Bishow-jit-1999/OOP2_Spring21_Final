@@ -1,0 +1,7 @@
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\bin\Debug\Student_Course_Association.exe.config
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\bin\Debug\Student_Course_Association.exe
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\bin\Debug\Student_Course_Association.pdb
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\obj\Debug\Student_Course_Association.csprojAssemblyReference.cache
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\obj\Debug\Student_Course_Association.csproj.CoreCompileInputs.cache
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\obj\Debug\Student_Course_Association.exe
+F:\Final term C# Task\Student_Course_Association\Student_Course_Association\obj\Debug\Student_Course_Association.pdb
