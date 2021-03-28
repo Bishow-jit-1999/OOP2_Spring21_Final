@@ -12,16 +12,16 @@ namespace Banking_Interface
 
         public bool Deposite(int amount)
         {
-            balance = +amount;
+            balance += amount;
             Console.WriteLine("New balance after deposite is:" + balance);
             return true;
         }
 
         public bool Withdraw(int amount)
         {
-            if (balance - amount >= (20 / 100) * balance)
+            if (amount <= 80* balance/100)
             {
-                balance = -amount;
+                balance -=amount;
                 Console.WriteLine("New balance after withdraw is:" + balance);
             }
             else

@@ -17,16 +17,16 @@ namespace Banking_Interface
 
         public bool Deposite(int amount)
         {
-            balance = +amount;
+            balance += amount;
             Console.WriteLine("New balance after deposite is:" + balance);
             return true;
         }
 
         public bool Withdraw(int amount)
         {
-            if (balance > 0) {
+            if (balance-amount>= 0) {
 
-                balance = -amount;
+                balance -=amount;
                 Console.WriteLine("New balance after withdraw is:" + balance);
             }
             else

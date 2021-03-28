@@ -1,0 +1,7 @@
+F:\Final term C# Task\Banking_Interface\Banking_Interface\bin\Debug\Banking_Interface.exe.config
+F:\Final term C# Task\Banking_Interface\Banking_Interface\bin\Debug\Banking_Interface.exe
+F:\Final term C# Task\Banking_Interface\Banking_Interface\bin\Debug\Banking_Interface.pdb
+F:\Final term C# Task\Banking_Interface\Banking_Interface\obj\Debug\Banking_Interface.csprojAssemblyReference.cache
+F:\Final term C# Task\Banking_Interface\Banking_Interface\obj\Debug\Banking_Interface.csproj.CoreCompileInputs.cache
+F:\Final term C# Task\Banking_Interface\Banking_Interface\obj\Debug\Banking_Interface.exe
+F:\Final term C# Task\Banking_Interface\Banking_Interface\obj\Debug\Banking_Interface.pdb
