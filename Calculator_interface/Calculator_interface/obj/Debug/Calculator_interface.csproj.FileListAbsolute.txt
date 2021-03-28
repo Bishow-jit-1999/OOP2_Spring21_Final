@@ -1,0 +1,7 @@
+F:\Final term C# Task\Calculator_interface\Calculator_interface\bin\Debug\Calculator_interface.exe.config
+F:\Final term C# Task\Calculator_interface\Calculator_interface\bin\Debug\Calculator_interface.exe
+F:\Final term C# Task\Calculator_interface\Calculator_interface\bin\Debug\Calculator_interface.pdb
+F:\Final term C# Task\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.csprojAssemblyReference.cache
+F:\Final term C# Task\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.csproj.CoreCompileInputs.cache
+F:\Final term C# Task\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.exe
+F:\Final term C# Task\Calculator_interface\Calculator_interface\obj\Debug\Calculator_interface.pdb

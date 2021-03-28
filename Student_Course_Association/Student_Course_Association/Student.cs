@@ -45,11 +45,12 @@ namespace Student_Course_Association
                     }
                 }
             }
+            countCourse--;
         }
 
         public void Show()
         {
-            for( int i = 0; i < countCourse-1; i++)
+            for( int i = 0; i < countCourse; i++)
             {
                 courses[i].ShowInfoCourse();
             }
