@@ -16,8 +16,8 @@ namespace Calculator_interface
 
         public double  Division(int x, int y)
         {
-            double div = x / y;
-            Console.WriteLine("Division of {0} and {1} is :{2}", x, y, div);
+            double div = (double) x/ y;
+            Console.WriteLine("Division of {0} and {1} is :{2}", x, y,div);
             return div;
         }
 
