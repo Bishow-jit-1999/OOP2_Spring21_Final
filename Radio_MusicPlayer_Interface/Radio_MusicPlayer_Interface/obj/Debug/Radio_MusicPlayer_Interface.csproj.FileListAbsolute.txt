@@ -1,0 +1,7 @@
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\bin\Debug\Radio_MusicPlayer_Interface.exe.config
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\bin\Debug\Radio_MusicPlayer_Interface.exe
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\bin\Debug\Radio_MusicPlayer_Interface.pdb
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\obj\Debug\Radio_MusicPlayer_Interface.csprojAssemblyReference.cache
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\obj\Debug\Radio_MusicPlayer_Interface.csproj.CoreCompileInputs.cache
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\obj\Debug\Radio_MusicPlayer_Interface.exe
+F:\Final term C# Task\Radio_MusicPlayer_Interface\Radio_MusicPlayer_Interface\obj\Debug\Radio_MusicPlayer_Interface.pdb
