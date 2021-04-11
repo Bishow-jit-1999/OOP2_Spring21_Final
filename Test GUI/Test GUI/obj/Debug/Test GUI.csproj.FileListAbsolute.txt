@@ -1,0 +1,10 @@
+F:\Final term C# Task\Test GUI\Test GUI\bin\Debug\Test GUI.exe.config
+F:\Final term C# Task\Test GUI\Test GUI\bin\Debug\Test GUI.exe
+F:\Final term C# Task\Test GUI\Test GUI\bin\Debug\Test GUI.pdb
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test GUI.csprojAssemblyReference.cache
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test_GUI.Form1.resources
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test_GUI.Properties.Resources.resources
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test GUI.csproj.GenerateResource.cache
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test GUI.csproj.CoreCompileInputs.cache
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test GUI.exe
+F:\Final term C# Task\Test GUI\Test GUI\obj\Debug\Test GUI.pdb
